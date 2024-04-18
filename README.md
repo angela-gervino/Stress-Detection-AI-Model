@@ -4,7 +4,7 @@ Stress detection is performed by making use of the association between certain f
 - Stress-related: Angry, Fear, Sad
 - Not stress-related: Happy, Surprise, Neutral, Disgust
 
-Inspired by: 
+The work done on this project was inspired by: 
 - https://ieeexplore.ieee.org/document/8868735
 - https://github.com/gitshanks/fer2013
 
